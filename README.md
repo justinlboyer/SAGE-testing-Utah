@@ -1,2 +1,2 @@
 # SAGE-testing-Utah
-Project to look at Sage testing in Utah.
+Project to analyze Sage testing of Utah's students.
